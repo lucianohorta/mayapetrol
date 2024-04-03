@@ -91,3 +91,5 @@ proguard/
 app/release
 .project
 .classpath
+
+app/src/main/res/drawable/
