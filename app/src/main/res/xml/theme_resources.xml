@@ -142,8 +142,6 @@
     <AppIcon name="com.b2winc.amedigital/com.b2winc.amedigital.ui.entrance.aliases.DefaultLauncherAlias" image="ame_digital" />
     <AppIcon name="com.b2w.americanas/com.b2w.main.activity.MainActivity" image="americanas" />
     <AppIcon name="com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity" image="amex" />
-    <AppIcon name="com.androholic.amoledpix/com.androholic.amoledpix.ui.activities.SplashActivity" image="amoled__pix" />
-    <AppIcon name="in.amoled.darkawallpapers/in.amoled.darkawallpapers.activities.SplashActivity" image="amoled_wallpapers_hd_4k" />
     <AppIcon name="com.ikmultimediaus.android.amplitubeua/com.ikmultimediaus.android.amplitube.activity.MainActivity" image="amplitube_ua" />
     <AppIcon name="studio.com.techriz.andronix/studio.com.techriz.andronix.ui.Splash" image="andronix" />
     <AppIcon name="com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activities.MainActivity" image="another_widget" />
@@ -837,7 +835,8 @@
     <AppIcon name="com.iPruAMC/com.iPruAMC.ui.SplashScreen" image="ipru_touch" />
     <AppIcon name="com.pecana.iptvextreme/com.pecana.iptvextreme.SplashActivity" image="iptv_extreme" />
     <AppIcon name="com.speakpic/com.speakpic.MainActivity" image="iptv" />
-    <AppIcon name="com.itau/br.com.itau.pf.ui.activity.SplashActivity" image="itau3" />
+    <AppIcon name="com.itau/br.com.itau.pf.ui.activity.SplashActivity" image="itau" />
+    <AppIcon name="com.itau/br.com.itau.pf.modules.features.appUse.appStart.splash.view.SplashActivity" image="itau"/>
     <AppIcon name="com.jungleapps.wallpapers/com.jungleapps.wallpapers.Preload" image="i___wall" />
     <AppIcon name="com.instacart.client/com.instacart.client.browse.ICBrowseActivity" image="instacart" />
     <AppIcon name="com.intact/com.intact.clientcenter.splash.SplashActivity" image="intact" />
@@ -1161,7 +1160,6 @@
 
     <!-- N:  -->
     <AppIcon name="com.neofinancial.neo/com.neofinancial.neo.base.ui.RootActivity" image="neo_financial" />
-    <AppIcon name="com.nintendo.znma/com.nintendo.nx.moon.SplashActivity" image="n_switch_parental_control" />
     <AppIcon name="com.notidroid/com.appyet.activity.SplashActivity" image="notidroid" />
     <AppIcon name="rk.android.app.notificationshortcuts/rk.android.app.notificationshortcuts.activities.launch.LaunchActivity" image="notification_shortcuts" />
     <AppIcon name="" image="night_mode3" />
@@ -1563,7 +1561,6 @@
     <AppIcon name="com.samsung.android.app.galaxyfinder/com.samsung.android.app.galaxyfinder.GalaxyFinderMainLauncher" image="samsung_finder" />
     <AppIcon name="com.samsung.android.keyscafe/com.samsung.android.keyscafe.main.ui.KeysCafeSplashActivity" image="samsung_keys_cafe" />
     <AppIcon name="com.samsung.android.pentastic/com.samsung.android.pentastic.settings.SettingsActivity" image="samsung_pentastic" />
-    <AppIcon name="com.creativetrends.simple.app/com.creativetrends.simple.app.free.activities.SimpleLogin" image="simple_social_browser" />
     <AppIcon name="projekt.substratum/projekt.substratum.LauncherActivity" image="substratum" />
     <AppIcon name="projekt.substratum/projekt.substratum.SplashScreenActivity" image="substratum" />
     <AppIcon name="projekt.substratum.lite/projekt.substratum.lite.activity.SplashScreenActivity" image="substratum" />
@@ -2254,7 +2251,6 @@
     <AppIcon name="com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity" image="samsung_voice_recorder" />
     <AppIcon name="com.samsung.vvm/com.samsung.vvm.vvmapp.VVMApplication" image="samsung_visual_voicemail" />
     <AppIcon name="com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList" image="samsung_video" />
-    <AppIcon name="com.samsung.android.wonderland.wallpaper/com.samsung.android.wonderland.wallpaper.settings.StartupActivity" image="samsung_wonderland_wallpaper" />
     <!--    SAMSUNG INTERNET BROWSER-->
     <AppIcon name="com.sec.android.app.sbrowser/.SBrowserMainActivity" image="samsung_internet_browser" />
     <AppIcon name="com.sec.android.app.sbrowser.beta/com.sec.android.app.sbrowser.SBrowserMainActivity" image="samsung_internet_browser" />
@@ -2309,8 +2305,8 @@
     <AppIcon name="com.viber.voip/com.viber.voip.WelcomeActivity" image="viber" />
     <AppIcon name="com.tencent.mm/com.tencent.mm.ui.LauncherUI" image="wechat" />
     <AppIcon name="com.whatsapp.w4b/com.whatsapp.Main" image="whatsapp_business" />
-    <AppIcon name="com.whatsapp/com.whatsapp.Main" image="whatsapp9" />
-    <AppIcon name="com.whatsapp/com.whatsapp.0" image="whatsapp9" />
+    <AppIcon name="com.whatsapp/com.whatsapp.Main" image="whatsapp4" />
+    <AppIcon name="com.whatsapp/com.whatsapp.0" image="whatsapp4" />
 
 
 
@@ -2398,39 +2394,39 @@
     <!--  ******************************************************************************************************* CAMERA *******************************************************************************************************-->
 
     <!--    NOTHING OS-->
-    <AppIcon name="com.nothing.camera/com.nothing.camera.activity.CameraActivity" image="camera10" />
+    <AppIcon name="com.nothing.camera/com.nothing.camera.activity.CameraActivity" image="camera01" />
 
     <!--    LINEAGE CAMERAS-->
-    <AppIcon name="org.lineageos.aperture/org.lineageos.aperture.CameraLauncher" image="camera10" />
-    <AppIcon name="org.lineageos.snap/com.android.camera.CameraLauncher" image="camera10" />
+    <AppIcon name="org.lineageos.aperture/org.lineageos.aperture.CameraLauncher" image="camera01" />
+    <AppIcon name="org.lineageos.snap/com.android.camera.CameraLauncher" image="camera01" />
 
     <!--    HUAWEI CAMERA-->
-    <AppIcon name="com.huawei.camera/com.huawei.camera" image="camera10"/>
+    <AppIcon name="com.huawei.camera/com.huawei.camera" image="camera01"/>
 
     <!--    ONEPLUS CAMERAS -->
-    <AppIcon name="com.oneplus.camera/.OPCameraActivity" image="camera10"/>
-    <AppIcon name="com.oplus.camera/com.oplus.camera.Camera" image="camera10"/>
+    <AppIcon name="com.oneplus.camera/.OPCameraActivity" image="camera01"/>
+    <AppIcon name="com.oplus.camera/com.oplus.camera.Camera" image="camera01"/>
 
     <!--    SAMSUNG CAMERA -->
-    <AppIcon name="com.sec.android.app.camera/.Camera" image="camera10"/>
-    <AppIcon name="com.sec.android.app.camera/com.sec.android.app.camera.Camera" image="camera10"/>
+    <AppIcon name="com.sec.android.app.camera/.Camera" image="camera01"/>
+    <AppIcon name="com.sec.android.app.camera/com.sec.android.app.camera.Camera" image="camera01"/>
 
     <!--    MOTOROLA CAMERA -->
-    <AppIcon name="com.motorola.camera2/com.motorola.camera.Camera" image="camera10"/>
+    <AppIcon name="com.motorola.camera2/com.motorola.camera.Camera" image="camera01"/>
 
     <!--    MEDIATEK CAMERA -->
-    <AppIcon name="com.mediatek.camera/com.mediatek.camera.CameraLauncher" image="camera10"/>
+    <AppIcon name="com.mediatek.camera/com.mediatek.camera.CameraLauncher" image="camera01"/>
 
     <!--    GOOGLE CAMERAS -->
-    <AppIcon name="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher" image="camera10" />
-    <AppIcon name="com.android.camera/.CameraEntry" image="camera10"/>
-    <AppIcon name="com.android.MGC_8_4_400/com.android.camera.CameraLauncher" image="camera10" />
-    <AppIcon name="com.android.MGC_8_7_250/com.android.camera.CameraLauncher" image="camera10" />
-    <AppIcon name="/com.android.camera.CameraLauncher" image="camera10" />
-    <AppIcon name="com.google.android.GoogleCamera/com.android.camera.CameraLauncher" image="camera10"/>
-    <AppIcon name="com.android.camera/com.android.camera.Camera" image="camera10" />
-    <AppIcon name="com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity" image="camera10" />
-    <AppIcon name="com.transsion.camera/com.android.camera.CameraLauncher" image="camera10" />
+    <AppIcon name="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher" image="camera01" />
+    <AppIcon name="com.android.camera/.CameraEntry" image="camera01"/>
+    <AppIcon name="com.android.MGC_8_4_400/com.android.camera.CameraLauncher" image="camera01" />
+    <AppIcon name="com.android.MGC_8_7_250/com.android.camera.CameraLauncher" image="camera01" />
+    <AppIcon name="/com.android.camera.CameraLauncher" image="camera01" />
+    <AppIcon name="com.google.android.GoogleCamera/com.android.camera.CameraLauncher" image="camera01"/>
+    <AppIcon name="com.android.camera/com.android.camera.Camera" image="camera01" />
+    <AppIcon name="com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity" image="camera01" />
+    <AppIcon name="com.transsion.camera/com.android.camera.CameraLauncher" image="camera01" />
 
     <!--  ******************************************************************************************************* DOWNLOADS ******************************************************************************************************** -->
     <AppIcon name="com.android.providers.downloads.ui/.DownloadList" image="downloads" />

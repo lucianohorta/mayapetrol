@@ -1,4 +1,4 @@
-package com.mayaiconsdark.app
+package com.mayapetrol.app
 
 import com.github.javiersantos.piracychecker.PiracyChecker
 import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity

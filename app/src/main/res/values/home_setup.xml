@@ -32,18 +32,18 @@
     <!-- These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
         <item>GitHub</item>
-        <item>Maya Icon Pack</item>
+        <item>Maya Icons</item>
     </string-array>
     <string-array name="home_list_descriptions">
         <item>Support my work here</item>
-        <item>Download the normal version of this pack</item>
+        <item>Download the normal/light version of this pack</item>
     </string-array>
     <string-array name="home_list_icons">
         <item>git__hub2</item>
         <item>mayaicon</item>
     </string-array>
     <string-array name="home_list_links">
-        <item>https://github.com/lucianohorta/mayaicons/blob/main/README.md</item>
+        <item>https://github.com/lucianohorta/mayapetrol/blob/main/README.md</item>
         <item>https://play.google.com/store/apps/details?id=com.mayaicons.app</item>
     </string-array>
 </resources>

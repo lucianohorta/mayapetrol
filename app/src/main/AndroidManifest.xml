@@ -1,12 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.mayaiconspetrol.app">
+    package="com.mayapetrol.app">
 
     <!-- Permission required for donations. Remove it if you don't use it -->
     <uses-permission android:name="com.android.vending.BILLING" />
 
     <application
-        android:name="com.mayaiconspetrol.app.MyApplication"
+        android:name="com.mayapetrol.app.MyApplication"
         android:allowBackup="true"
         android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
@@ -236,7 +236,7 @@
 
         <!-- Muzei Service -->
         <provider
-            android:name="com.mayaiconsdark.app.MuzeiService"
+            android:name=".MuzeiService"
             android:authorities="${applicationId}.muzei"
             android:exported="true"
             android:icon="@drawable/ic_muzei_icon"

@@ -196,8 +196,6 @@
         <item tools:ignore="Typos">ame_digital</item>
         <item tools:ignore="Typos">americanas</item>
         <item tools:ignore="Typos">amex</item>
-        <item tools:ignore="Typos">amoled__pix</item>
-        <item tools:ignore="Typos">amoled_wallpapers_hd_4k</item>
         <item tools:ignore="Typos">among_us</item>
         <item tools:ignore="Typos">amplitube_ua</item>
         <item tools:ignore="Typos">amplitube_ua2</item>
@@ -1565,8 +1563,6 @@
         <item tools:ignore="Typos">need_for_speed2</item>
         <item tools:ignore="Typos">nekogram</item>
         <item tools:ignore="Typos">nekogram2</item>
-        <item tools:ignore="Typos">nekogram3</item>
-        <item tools:ignore="Typos">nekogram4</item>
         <item tools:ignore="Typos">neo_financial</item>
         <item tools:ignore="Typos">neo_store</item>
         <item tools:ignore="Typos">nescafe_dolce_gusto2</item>
@@ -1638,12 +1634,10 @@
         <item tools:ignore="Typos">nrk_radio</item>
         <item tools:ignore="Typos">nrk_tv</item>
         <item tools:ignore="Typos">___ns</item>
-        <item tools:ignore="Typos">n_switch_parental_control</item>
         <item tools:ignore="Typos">nubank</item>
         <item tools:ignore="Typos">nubank2</item>
         <item tools:ignore="Typos">nyx_music_player</item>
         <item tools:ignore="Typos">nyx_music_player2</item>
-        <item tools:ignore="Typos">nyx_music_player3</item>
         <item tools:ignore="Typos">obtainium</item>
         <item tools:ignore="Typos">occmundial</item>
         <item tools:ignore="Typos">oculus</item>
@@ -1989,7 +1983,6 @@
         <item tools:ignore="Typos">samsung_visual_voicemail</item>
         <item tools:ignore="Typos">samsung_video</item>
         <item tools:ignore="Typos">samsung_voice_recorder</item>
-        <item tools:ignore="Typos">samsung_wonderland_wallpaper</item>
         <item tools:ignore="Typos">santander_way</item>
         <item tools:ignore="Typos">santander</item>
         <item tools:ignore="Typos">sap_concur</item>
@@ -2059,7 +2052,6 @@
         <item tools:ignore="Typos">simple_habit2</item>
         <item tools:ignore="Typos">simple_keyboard</item>
         <item tools:ignore="Typos">simple__login</item>
-        <item tools:ignore="Typos">simple_social_browser</item>
         <item tools:ignore="Typos">sixt</item>
         <item tools:ignore="Typos">skeelo</item>
         <item tools:ignore="Typos">skiplagged</item>
@@ -2136,7 +2128,6 @@
         <item tools:ignore="Typos">spotify6</item>
         <item tools:ignore="Typos">spotify7</item>
         <item tools:ignore="Typos">spotiq_ten_equalizer</item>
-        <item tools:ignore="Typos">square_enix</item>
         <item tools:ignore="Typos">square_pic</item>
         <item tools:ignore="Typos">squid</item>
         <item tools:ignore="Typos">s_secure</item>
@@ -3137,8 +3128,6 @@
         <item tools:ignore="Typos">megalodon</item>
         <item tools:ignore="Typos">nekogram</item>
         <item tools:ignore="Typos">nekogram2</item>
-        <item tools:ignore="Typos">nekogram3</item>
-        <item tools:ignore="Typos">nekogram4</item>
         <item tools:ignore="Typos">now_for_reddit</item>
         <item tools:ignore="Typos">plus_messenger</item>
         <item tools:ignore="Typos">quora</item>
@@ -3382,9 +3371,6 @@
         <item tools:ignore="Typos">samsung_visual_voicemail</item>
         <item tools:ignore="Typos">samsung_video</item>
         <item tools:ignore="Typos">samsung_voice_recorder</item>
-        <item tools:ignore="Typos">samsung_wonderland_wallpaper</item>
-
-
     </string-array>
 
     <string-array name="amazon">

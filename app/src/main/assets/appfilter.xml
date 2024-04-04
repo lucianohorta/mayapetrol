@@ -136,8 +136,6 @@
     <item component="ComponentInfo{com.b2winc.amedigital/com.b2winc.amedigital.ui.entrance.aliases.DefaultLauncherAlias}" drawable="ame_digital" />
     <item component="ComponentInfo{com.b2w.americanas/com.b2w.main.activity.MainActivity}" drawable="americanas" />
     <item component="ComponentInfo{com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity}" drawable="amex" />
-    <item component="ComponentInfo{com.androholic.amoledpix/com.androholic.amoledpix.ui.activities.SplashActivity}" drawable="amoled__pix" />
-    <item component="ComponentInfo{in.amoled.darkawallpapers/in.amoled.darkawallpapers.activities.SplashActivity}" drawable="amoled_wallpapers_hd_4k" />
     <item component="ComponentInfo{com.ikmultimediaus.android.amplitubeua/com.ikmultimediaus.android.amplitube.activity.MainActivity}" drawable="amplitube_ua" />
     <item component="ComponentInfo{studio.com.techriz.andronix/studio.com.techriz.andronix.ui.Splash}" drawable="andronix" />
     <item component="ComponentInfo{com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activities.MainActivity}" drawable="another_widget" />
@@ -831,7 +829,8 @@
     <item component="ComponentInfo{com.iPruAMC/com.iPruAMC.ui.SplashScreen}" drawable="ipru_touch" />
     <item component="ComponentInfo{com.pecana.iptvextreme/com.pecana.iptvextreme.SplashActivity}" drawable="iptv_extreme" />
     <item component="ComponentInfo{com.speakpic/com.speakpic.MainActivity}" drawable="iptv" />
-    <item component="ComponentInfo{com.itau/br.com.itau.pf.ui.activity.SplashActivity}" drawable="itau3" />
+    <item component="ComponentInfo{com.itau/br.com.itau.pf.ui.activity.SplashActivity}" drawable="itau" />
+    <item component="ComponentInfo{com.itau/br.com.itau.pf.modules.features.appUse.appStart.splash.view.SplashActivity}" drawable="itau"/>
     <item component="ComponentInfo{com.jungleapps.wallpapers/com.jungleapps.wallpapers.Preload}" drawable="i___wall" />
     <item component="ComponentInfo{com.instacart.client/com.instacart.client.browse.ICBrowseActivity}" drawable="instacart" />
     <item component="ComponentInfo{com.intact/com.intact.clientcenter.splash.SplashActivity}" drawable="intact" />
@@ -1156,7 +1155,6 @@
 
     <!-- N:  -->
     <item component="ComponentInfo{com.neofinancial.neo/com.neofinancial.neo.base.ui.RootActivity}" drawable="neo_financial" />
-    <item component="ComponentInfo{com.nintendo.znma/com.nintendo.nx.moon.SplashActivity}" drawable="n_switch_parental_control" />
     <item component="ComponentInfo{com.notidroid/com.appyet.activity.SplashActivity}" drawable="notidroid" />
     <item component="ComponentInfo{rk.android.app.notificationshortcuts/rk.android.app.notificationshortcuts.activities.launch.LaunchActivity}" drawable="notification_shortcuts" />
     <item component="ComponentInfo{}" drawable="night_mode3" />
@@ -1557,7 +1555,6 @@
     <item component="ComponentInfo{com.samsung.android.app.galaxyfinder/com.samsung.android.app.galaxyfinder.GalaxyFinderMainLauncher}" drawable="samsung_finder" />
     <item component="ComponentInfo{com.samsung.android.keyscafe/com.samsung.android.keyscafe.main.ui.KeysCafeSplashActivity}" drawable="samsung_keys_cafe" />
     <item component="ComponentInfo{com.samsung.android.pentastic/com.samsung.android.pentastic.settings.SettingsActivity}" drawable="samsung_pentastic" />
-    <item component="ComponentInfo{com.creativetrends.simple.app/com.creativetrends.simple.app.free.activities.SimpleLogin}" drawable="simple_social_browser" />
     <item component="ComponentInfo{projekt.substratum/projekt.substratum.LauncherActivity}" drawable="substratum" />
     <item component="ComponentInfo{projekt.substratum/projekt.substratum.SplashScreenActivity}" drawable="substratum" />
     <item component="ComponentInfo{projekt.substratum.lite/projekt.substratum.lite.activity.SplashScreenActivity}" drawable="substratum" />
@@ -2238,7 +2235,6 @@
     <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="samsung_voice_recorder" />
     <item component="ComponentInfo{com.samsung.vvm/com.samsung.vvm.vvmapp.VVMApplication}" drawable="samsung_visual_voicemail" />
     <item component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}" drawable="samsung_video" />
-    <item component="ComponentInfo{com.samsung.android.wonderland.wallpaper/com.samsung.android.wonderland.wallpaper.settings.StartupActivity}" drawable="samsung_wonderland_wallpaper" />
 
 
 
@@ -2297,8 +2293,8 @@
     <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="viber" />
     <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat" />
     <item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}" drawable="whatsapp_business" />
-    <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp9" />
-    <item component="ComponentInfo{com.whatsapp/com.whatsapp.0}" drawable="whatsapp9" />
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp4" />
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp.0}" drawable="whatsapp4" />
 
     <!-- ***************************************************************************************************  -->
     <!-- ***************************************************************************************************  -->
@@ -2391,39 +2387,39 @@
     <!--  ******************************************************************************************************* CAMERA *******************************************************************************************************-->
 
     <!--    NOTHING OS-->
-    <item component="ComponentInfo{com.nothing.camera/com.nothing.camera.activity.CameraActivity}" drawable="camera10" />
+    <item component="ComponentInfo{com.nothing.camera/com.nothing.camera.activity.CameraActivity}" drawable="camera01" />
 
     <!--    LINEAGE CAMERAS-->
-    <item component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraLauncher}" drawable="camera10" />
-    <item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="camera10" />
+    <item component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraLauncher}" drawable="camera01" />
+    <item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="camera01" />
 
     <!--    HUAWEI CAMERA-->
-    <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="camera10"/>
+    <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="camera01"/>
 
     <!--    ONEPLUS CAMERAS -->
-    <item component="ComponentInfo{com.oneplus.camera/.OPCameraActivity}" drawable="camera10"/>
-    <item component="ComponentInfo{com.oplus.camera/com.oplus.camera.Camera}" drawable="camera10"/>
+    <item component="ComponentInfo{com.oneplus.camera/.OPCameraActivity}" drawable="camera01"/>
+    <item component="ComponentInfo{com.oplus.camera/com.oplus.camera.Camera}" drawable="camera01"/>
 
     <!--    SAMSUNG CAMERA -->
-    <item component="ComponentInfo{com.sec.android.app.camera/.Camera}" drawable="camera10"/>
-    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera10"/>
+    <item component="ComponentInfo{com.sec.android.app.camera/.Camera}" drawable="camera01"/>
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera01"/>
 
     <!--    MOTOROLA CAMERA -->
-    <item component="ComponentInfo{com.motorola.camera2/com.motorola.camera.Camera}" drawable="camera10"/>
+    <item component="ComponentInfo{com.motorola.camera2/com.motorola.camera.Camera}" drawable="camera01"/>
 
     <!--    MEDIATEK CAMERA -->
-    <item component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraLauncher}" drawable="camera10"/>
+    <item component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraLauncher}" drawable="camera01"/>
 
     <!--    GOOGLE CAMERAS -->
-    <item component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}" drawable="camera10" />
-    <item component="ComponentInfo{com.android.camera/.CameraEntry}" drawable="camera10"/>
-    <item component="ComponentInfo{com.android.MGC_8_4_400/com.android.camera.CameraLauncher}" drawable="camera10" />
-    <item component="ComponentInfo{com.android.MGC_8_7_250/com.android.camera.CameraLauncher}" drawable="camera10" />
-    <item component="ComponentInfo{/com.android.camera.CameraLauncher}" drawable="camera10" />
-    <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="camera10"/>
-    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera10" />
-    <item component="ComponentInfo{com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity}" drawable="camera10" />
-    <item component="ComponentInfo{com.transsion.camera/com.android.camera.CameraLauncher}" drawable="camera10" />
+    <item component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}" drawable="camera01" />
+    <item component="ComponentInfo{com.android.camera/.CameraEntry}" drawable="camera01"/>
+    <item component="ComponentInfo{com.android.MGC_8_4_400/com.android.camera.CameraLauncher}" drawable="camera01" />
+    <item component="ComponentInfo{com.android.MGC_8_7_250/com.android.camera.CameraLauncher}" drawable="camera01" />
+    <item component="ComponentInfo{/com.android.camera.CameraLauncher}" drawable="camera01" />
+    <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="camera01"/>
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera01" />
+    <item component="ComponentInfo{com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity}" drawable="camera01" />
+    <item component="ComponentInfo{com.transsion.camera/com.android.camera.CameraLauncher}" drawable="camera01" />
 
     <!--  ******************************************************************************************************* DOWNLOADS ******************************************************************************************************** -->
 

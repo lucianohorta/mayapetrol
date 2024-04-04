@@ -1,4 +1,4 @@
-package com.mayaiconsdark.app
+package com.mayapetrol.app
 
 /* TODO: Remove comment marks to enable
 import android.content.Context

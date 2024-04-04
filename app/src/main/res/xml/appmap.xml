@@ -134,8 +134,6 @@
     <item class="com.b2winc.amedigital/com.b2winc.amedigital.ui.entrance.aliases.DefaultLauncherAlias" name="ame_digital" />
     <item class="com.b2w.americanas/com.b2w.main.activity.MainActivity" name="americanas" />
     <item class="com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity" name="amex" />
-    <item class="com.androholic.amoledpix/com.androholic.amoledpix.ui.activities.SplashActivity" name="amoled__pix" />
-    <item class="in.amoled.darkawallpapers/in.amoled.darkawallpapers.activities.SplashActivity" name="amoled_wallpapers_hd_4k" />
     <item class="com.ikmultimediaus.android.amplitubeua/com.ikmultimediaus.android.amplitube.activity.MainActivity" name="amplitube_ua" />
     <item class="studio.com.techriz.andronix/studio.com.techriz.andronix.ui.Splash" name="andronix" />
     <item class="com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activities.MainActivity" name="another_widget" />
@@ -830,7 +828,8 @@
     <item class="com.iPruAMC/com.iPruAMC.ui.SplashScreen" name="ipru_touch" />
     <item class="com.pecana.iptvextreme/com.pecana.iptvextreme.SplashActivity" name="iptv_extreme" />
     <item class="com.speakpic/com.speakpic.MainActivity" name="iptv" />
-    <item class="com.itau/br.com.itau.pf.ui.activity.SplashActivity" name="itau3" />
+    <item class="com.itau/br.com.itau.pf.ui.activity.SplashActivity" name="itau" />
+    <item class="br.com.itau.pf.modules.features.appUse.appStart.splash.view.SplashActivity" name="itau"/>
     <item class="com.jungleapps.wallpapers/com.jungleapps.wallpapers.Preload" name="i___wall" />
     <item class="com.instacart.client/com.instacart.client.browse.ICBrowseActivity" name="instacart" />
     <item class="com.intact/com.intact.clientcenter.splash.SplashActivity" name="intact" />
@@ -1155,7 +1154,6 @@
 
     <!-- N:  -->
     <item class="com.neofinancial.neo/com.neofinancial.neo.base.ui.RootActivity" name="neo_financial" />
-    <item class="com.nintendo.znma/com.nintendo.nx.moon.SplashActivity" name="n_switch_parental_control" />
     <item class="com.notidroid/com.appyet.activity.SplashActivity" name="notidroid" />
     <item class="rk.android.app.notificationshortcuts/rk.android.app.notificationshortcuts.activities.launch.LaunchActivity" name="notification_shortcuts" />
     <item class="" name="night_mode3" />
@@ -1557,7 +1555,6 @@
     <item class="com.samsung.android.app.galaxyfinder/com.samsung.android.app.galaxyfinder.GalaxyFinderMainLauncher" name="samsung_finder" />
     <item class="com.samsung.android.keyscafe/com.samsung.android.keyscafe.main.ui.KeysCafeSplashActivity" name="samsung_keys_cafe" />
     <item class="com.samsung.android.pentastic/com.samsung.android.pentastic.settings.SettingsActivity" name="samsung_pentastic" />
-    <item class="com.creativetrends.simple.app/com.creativetrends.simple.app.free.activities.SimpleLogin" name="simple_social_browser" />
     <item class="projekt.substratum/projekt.substratum.LauncherActivity" name="substratum" />
     <item class="projekt.substratum/projekt.substratum.SplashScreenActivity" name="substratum" />
     <item class="projekt.substratum.lite/projekt.substratum.lite.activity.SplashScreenActivity" name="substratum" />
@@ -2217,7 +2214,6 @@
     <item class="com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity" name="samsung_voice_recorder" />
     <item class="com.samsung.vvm/com.samsung.vvm.vvmapp.VVMApplication" name="samsung_visual_voicemail" />
     <item class="com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList" name="samsung_video" />
-    <item class="com.samsung.android.wonderland.wallpaper/com.samsung.android.wonderland.wallpaper.settings.StartupActivity" name="samsung_wonderland_wallpaper" />
     <!--    SAMSUNG INTERNET BROWSER-->
     <item class="com.sec.android.app.sbrowser/.SBrowserMainActivity" name="samsung_internet_browser" />
     <item class="com.sec.android.app.sbrowser.beta/com.sec.android.app.sbrowser.SBrowserMainActivity" name="samsung_internet_browser" />
@@ -2272,8 +2268,8 @@
     <item class="com.viber.voip/com.viber.voip.WelcomeActivity" name="viber" />
     <item class="com.tencent.mm/com.tencent.mm.ui.LauncherUI" name="wechat" />
     <item class="com.whatsapp.w4b/com.whatsapp.Main" name="whatsapp_business" />
-    <item class="com.whatsapp/com.whatsapp.Main" name="whatsapp9" />
-    <item class="com.whatsapp/com.whatsapp.0" name="whatsapp9" />
+    <item class="com.whatsapp/com.whatsapp.Main" name="whatsapp4" />
+    <item class="com.whatsapp/com.whatsapp.0" name="whatsapp4" />
 
     <!-- ***************************************************************************************************  -->
     <!-- ***************************************************************************************************  -->
@@ -2355,39 +2351,39 @@
     <!--  ******************************************************************************************************* CAMERA *******************************************************************************************************-->
 
     <!--    NOTHING OS-->
-    <item class="com.nothing.camera/com.nothing.camera.activity.CameraActivity" name="camera10" />
+    <item class="com.nothing.camera/com.nothing.camera.activity.CameraActivity" name="camera01" />
 
     <!--    LINEAGE CAMERAS-->
-    <item class="org.lineageos.aperture/org.lineageos.aperture.CameraLauncher" name="camera10" />
-    <item class="org.lineageos.snap/com.android.camera.CameraLauncher" name="camera10" />
+    <item class="org.lineageos.aperture/org.lineageos.aperture.CameraLauncher" name="camera01" />
+    <item class="org.lineageos.snap/com.android.camera.CameraLauncher" name="camera01" />
 
     <!--    HUAWEI CAMERA-->
-    <item class="com.huawei.camera/com.huawei.camera" name="camera10"/>
+    <item class="com.huawei.camera/com.huawei.camera" name="camera01"/>
 
     <!--    ONEPLUS CAMERAS -->
-    <item class="com.oneplus.camera/.OPCameraActivity" name="camera10"/>
-    <item class="com.oplus.camera/com.oplus.camera.Camera" name="camera10"/>
+    <item class="com.oneplus.camera/.OPCameraActivity" name="camera01"/>
+    <item class="com.oplus.camera/com.oplus.camera.Camera" name="camera01"/>
 
     <!--    SAMSUNG CAMERA -->
-    <item class="com.sec.android.app.camera/.Camera" name="camera10"/>
-    <item class="com.sec.android.app.camera/com.sec.android.app.camera.Camera" name="camera10"/>
+    <item class="com.sec.android.app.camera/.Camera" name="camera01"/>
+    <item class="com.sec.android.app.camera/com.sec.android.app.camera.Camera" name="camera01"/>
 
     <!--    MOTOROLA CAMERA -->
-    <item class="com.motorola.camera2/com.motorola.camera.Camera" name="camera10"/>
+    <item class="com.motorola.camera2/com.motorola.camera.Camera" name="camera01"/>
 
     <!--    MEDIATEK CAMERA -->
-    <item class="com.mediatek.camera/com.mediatek.camera.CameraLauncher" name="camera10"/>
+    <item class="com.mediatek.camera/com.mediatek.camera.CameraLauncher" name="camera01"/>
 
     <!--    GOOGLE CAMERAS -->
-    <item class="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher" name="camera10" />
-    <item class="com.android.camera/.CameraEntry" name="camera10"/>
-    <item class="com.android.MGC_8_4_400/com.android.camera.CameraLauncher" name="camera10" />
-    <item class="com.android.MGC_8_7_250/com.android.camera.CameraLauncher" name="camera10" />
-    <item class="/com.android.camera.CameraLauncher" name="camera10" />
-    <item class="com.google.android.GoogleCamera/com.android.camera.CameraLauncher" name="camera10"/>
-    <item class="com.android.camera/com.android.camera.Camera" name="camera10" />
-    <item class="com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity" name="camera10" />
-    <item class="com.transsion.camera/com.android.camera.CameraLauncher" name="camera10" />
+    <item class="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher" name="camera01" />
+    <item class="com.android.camera/.CameraEntry" name="camera01"/>
+    <item class="com.android.MGC_8_4_400/com.android.camera.CameraLauncher" name="camera01" />
+    <item class="com.android.MGC_8_7_250/com.android.camera.CameraLauncher" name="camera01" />
+    <item class="/com.android.camera.CameraLauncher" name="camera01" />
+    <item class="com.google.android.GoogleCamera/com.android.camera.CameraLauncher" name="camera01"/>
+    <item class="com.android.camera/com.android.camera.Camera" name="camera01" />
+    <item class="com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity" name="camera01" />
+    <item class="com.transsion.camera/com.android.camera.CameraLauncher" name="camera01" />
 
 
     <!--  ******************************************************************************************************* DOWNLOADS ******************************************************************************************************** -->

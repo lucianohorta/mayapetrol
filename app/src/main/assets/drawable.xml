@@ -163,8 +163,6 @@
     <item drawable="ame_digital" />
     <item drawable="americanas" />
     <item drawable="amex" />
-    <item drawable="amoled__pix" />
-    <item drawable="amoled_wallpapers_hd_4k" />
     <item drawable="among_us" />
     <item drawable="amplitube_ua" />
     <item drawable="amplitube_ua2" />
@@ -1532,8 +1530,6 @@
     <item drawable="need_for_speed2" />
     <item drawable="nekogram" />
     <item drawable="nekogram2" />
-    <item drawable="nekogram3" />
-    <item drawable="nekogram4" />
     <item drawable="neo_financial" />
     <item drawable="neo_store" />
     <item drawable="nescafe_dolce_gusto2" />
@@ -1605,12 +1601,10 @@
     <item drawable="nrk_radio" />
     <item drawable="nrk_tv" />
     <item drawable="___ns" />
-    <item drawable="n_switch_parental_control" />
     <item drawable="nubank" />
     <item drawable="nubank2" />
     <item drawable="nyx_music_player" />
     <item drawable="nyx_music_player2" />
-    <item drawable="nyx_music_player3" />
     <item drawable="obtainium" />
     <item drawable="occmundial" />
     <item drawable="oculus" />
@@ -1956,7 +1950,6 @@
     <item drawable="samsung_visual_voicemail" />
     <item drawable="samsung_video" />
     <item drawable="samsung_voice_recorder" />
-    <item drawable="samsung_wonderland_wallpaper" />
     <item drawable="santander_way" />
     <item drawable="santander" />
     <item drawable="sap_concur" />
@@ -2027,7 +2020,6 @@
     <item drawable="simple_keyboard" />
     <item drawable="simple__login" />
     <item drawable="simple__login2" />
-    <item drawable="simple_social_browser" />
     <item drawable="sixt" />
     <item drawable="skeelo" />
     <item drawable="skiplagged" />
@@ -2104,7 +2096,6 @@
     <item drawable="spotify6" />
     <item drawable="spotify7" />
     <item drawable="spotiq_ten_equalizer" />
-    <item drawable="square_enix" />
     <item drawable="square_pic" />
     <item drawable="squid" />
     <item drawable="s_secure" />
@@ -3105,8 +3096,6 @@
     <item drawable="megalodon" />
     <item drawable="nekogram" />
     <item drawable="nekogram2" />
-    <item drawable="nekogram3" />
-    <item drawable="nekogram4" />
     <item drawable="now_for_reddit" />
     <item drawable="plus_messenger" />
     <item drawable="quora" />
@@ -3346,7 +3335,6 @@
     <item drawable="samsung_visual_voicemail" />
     <item drawable="samsung_video" />
     <item drawable="samsung_voice_recorder" />
-    <item drawable="samsung_wonderland_wallpaper" />
 
     <category title="Amazon" />
     <item drawable="amazon_alexa" />
